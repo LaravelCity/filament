@@ -18,7 +18,7 @@ Filament is a collection of full-stack components for accelerated Laravel develo
 The panel builder is the foundation of Filament. Combining all the packages together, it allows you to quickly build a Laravel admin panels, customer-facing apps, Software-as-a-Service platforms, and more. Filament makes custom CRUD-driven interfaces feel like a breeze to build and deploy.
 
 ```bash
-composer require filament/filament
+composer require filament/filament:"^3.2" -W
 ```
 
 ### Form Builder • [Documentation](https://filamentphp.com/docs/forms)
