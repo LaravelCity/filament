@@ -26,7 +26,7 @@ composer require filament/filament:"^3.2" -W
 Rendering interactive forms in a Livewire component has never been easier than with our form builder. Easily build stunning forms with over 25 components out of the box. It's also fully extensible, so you can add your own custom fields and actions. As well as the panel builder, it is seamlessly integrated into action modals, and is used by the table builder to filter rows.
 
 ```bash
-composer require filament/forms
+composer require filament/forms:"^3.2" -W
 ```
 
 ### Table Builder • [Documentation](https://filamentphp.com/docs/tables)
@@ -34,7 +34,7 @@ composer require filament/forms
 Craft beautiful, optimized, and interactive datatables for any situation. Drop in to a Livewire component, and you're ready to go. It's also fully extensible, so you can add your own custom columns, filters and actions.
 
 ```bash
-composer require filament/tables
+composer require filament/tables:"^3.2" -W
 ```
 
 ### Notifications • [Documentation](https://filamentphp.com/docs/notifications)
@@ -42,7 +42,7 @@ composer require filament/tables
 An important part of any application is the ability to notify your users of important events. Our notifications package allows you to deliver flash notifications to users from any Livewire request, or even from your JavaScript frontend. In addition, it can fetch notifications from the database and render them in a beautiful slide-over modal, or even receive live notifications from a websockets server.
 
 ```bash
-composer require filament/notifications
+composer require filament/notifications:"^3.2" -W
 ```
 
 ### Actions • [Documentation](https://filamentphp.com/docs/actions)
@@ -50,7 +50,7 @@ composer require filament/notifications
 Actions are buttons that can open modals. They are a very versatile component of many interfaces, avoiding the need for the user to navigate away from the page to complete a task. From confirming a destructive action, to editing an Eloquent record, to importing data from an uploaded CSV file, action modals are a great way to keep the user in the flow of the application. It is built upon our form builder, so it is builds upon the same principles of flexibility and extensibility. Modals can be added to any Livewire component with just a few lines of code, and no HTML or JavaScript.
 
 ```bash
-composer require filament/actions
+composer require filament/actions:"^3.2" -W
 ```
 
 ### Infolists • [Documentation](https://filamentphp.com/docs/infolists)
@@ -58,7 +58,7 @@ composer require filament/actions
 Infolists are a great way to display read-only information to users about a particular record. They have a fully flexible layout, and can be extended with custom components. They are also seamlessly integrated with the panel builder, so you can easily add them to your panel resources.
 
 ```bash
-composer require filament/infolists
+composer require filament/infolists:"^3.2" -W
 ```
 
 ### Widgets • [Documentation](https://filamentphp.com/docs/widgets)
@@ -66,7 +66,7 @@ composer require filament/infolists
 Filament's collection of widgets are built upon Livewire's core principles of real-time reactivity with the server. Combining many widgets allows you to quickly build a dashboard for your application, complete with charts and stats, which are able to update live without refreshing the page. They are also seamlessly integrated with any page in the panel builder.
 
 ```bash
-composer require filament/widgets
+composer require filament/widgets:"^3.2" -W
 ```
 
 ## Contributing
